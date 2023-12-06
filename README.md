@@ -1,3 +1,8 @@
+Application Video:
+https://github.com/bsaygili/diceandnice/assets/25987727/5cf67b7f-af95-487f-93b3-6b936ae5131d
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
